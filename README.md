@@ -1,1 +1,1 @@
-# linux_settings
+# Basic Linux settings for reference
