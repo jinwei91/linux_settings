@@ -1,9 +1,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Maintainer:
-"	Original:	Amir Salihefendic \u2014 @amix3k, https://github.com/amix/vimrc
+"	Original:	Amir Salihefendic - @amix3k, https://github.com/amix/vimrc
 "	Modify:		Jinwei Zeng
-"	Version:	1.1
-"	Date:		2020/06/10
 "
 " Sections:
 "    -> General
@@ -77,7 +75,7 @@ else
     set wildignore+=*/.git/*,*/.hg/*,*/.svn/*,*/.DS_Store
 endif
 
-"Always show current position
+" Always show current position
 set ruler
 
 " Height of the command bar
@@ -110,6 +108,7 @@ set magic
 
 " Show matching brackets when text indicator is over them
 set showmatch
+
 " How many tenths of a second to blink when matching brackets
 set mat=2
 
